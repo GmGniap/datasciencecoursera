@@ -1,2 +1,6 @@
 # paing.me
-Personal website using Python Flask as backend and React as frontend. 
+Personal Workspace
+- Code
+- Notes 
+- Ideas 
+- Links 
